@@ -1,0 +1,19 @@
+{
+  "name": "travel-guide",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./sass/main.scss:./css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adrizen89/travel-guide.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adrizen89/travel-guide/issues"
+  },
+  "homepage": "https://github.com/Adrizen89/travel-guide#readme",
+  "description": ""
+}
