@@ -1,0 +1,61 @@
+* {
+  list-style: none;
+  text-decoration: none;
+}
+
+body {
+  background-color: #566573;
+}
+
+a {
+  color: white;
+}
+
+header h2 {
+  color: white;
+  font-size: 2em;
+  text-align: center;
+}
+header nav ul {
+  display: flex;
+  justify-content: center;
+}
+header nav ul li {
+  margin: 10px;
+}
+header .border {
+  width: 80%;
+  border-bottom: 2px solid white;
+  opacity: 0.2;
+  margin: auto;
+}
+
+main {
+  text-align: center;
+  color: white;
+}
+main h1 {
+  color: white;
+  font-size: 3.2em;
+}
+main .border {
+  width: 80%;
+  border-bottom: 2px solid white;
+  opacity: 0.2;
+  margin: auto;
+}
+main .cases {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+main .cases article {
+  background-color: yellow;
+  margin: 10px;
+  width: 20%;
+}
+main .cases article p {
+  color: black;
+}
+
+/*# sourceMappingURL=style.css.map */
